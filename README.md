@@ -1,6 +1,8 @@
 ![Title](github/github_title_g2.gif)  
 `thegalaxy2.com`  
 
+# Dates:  
+2005 - 2008  
 # Technologies:  
 HTML4, Flash
 # Description:  

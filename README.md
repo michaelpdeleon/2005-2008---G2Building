@@ -4,7 +4,7 @@
 # Dates:  
 2005 - 2008  
 # Technologies:  
-HTML4, CSS2, Flash
+Photoshop, Dreamweaver, HTML4, CSS2, Flash
 # Description:  
 This website was meant to give information to prospective tenants of this new building. It showed floor plans, geographic location of the surrounding area and updated pictures of the construction progress.  
 
